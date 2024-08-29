@@ -1,0 +1,20 @@
+h1{
+    color: aquamarine;
+    background-color: black;
+}
+*{
+    color: blueviolet;
+    background-color: azure;
+}
+#head1{
+    color: darkmagenta;
+}
+#head2{
+    color: rgb(8, 228, 0);
+}
+#head3{
+    color: rgb(202, 29, 58);
+}
+.class1{
+    color: pink;
+}
